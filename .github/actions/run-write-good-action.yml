@@ -1,0 +1,6 @@
+name: 'Run write good'
+description: 'Run write-good on all .md files in the repository'
+runs:
+  using: 'node16'
+  main: 'index.js'
+  
